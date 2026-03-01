@@ -22,7 +22,7 @@ namespace spp_lab_3
     {
         public MainWindow()
         {
-            InitializeComponent();
+            ///InitializeComponent();
         }
     }
 }

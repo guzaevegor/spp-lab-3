@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spp-lab-3", "spp-lab-3\spp-lab-3.csproj", "{C0C29112-DEBE-48E8-825B-BF14C86D8153}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryScannerApp", "spp-lab-3\DirectoryScannerApp.csproj", "{C0C29112-DEBE-48E8-825B-BF14C86D8153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
